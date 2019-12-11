@@ -40,7 +40,7 @@ def main():
     scoresList=[]
 
     scoresList=getScore()
-
+    print("trying git")
     print("ScoreList:", scoresList)
     scorelen= len(scoresList)
     if scorelen!=0:
